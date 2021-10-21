@@ -1,0 +1,17 @@
+## abrir carpeta
+ii .
+
+## servidor de desarrollo
+python manage.py runserver
+## terminar porceso
+ctrl c
+
+## nuevo proyecto
+django-admin starproject dj32
+## nueva app
+python manage.py startapp articles
+## aplicar cambios en la base de datos
+python manage.py migrate
+## mapear modelos
+python manage.py makemigrations
+
