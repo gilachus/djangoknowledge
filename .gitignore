@@ -2,5 +2,5 @@ Scripts
 Lib
 Include
 pyvenv.cfg
-.code-workspace
+*.code-workspace
 __pycache__
